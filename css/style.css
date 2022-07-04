@@ -1,0 +1,235 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none !important;
+    font-weight: 400 !important;
+}
+
+.margin-bottom{
+    margin-bottom: 27px;
+}
+/*header-start-main start*/
+.header-start-main-1 ul{
+    display: flex;
+}
+.header-start-main-1 a{
+    padding-right: 24px;
+    color: #000000 !important;
+    font-size: 13px;
+    font-weight: 400;
+}
+.header-start-main{
+    padding-top: 30px;
+    position: fixed !important;
+    z-index: 100;
+    background: #ffffff;
+    width: 100%;
+}
+.header-start-main-2 img{
+    max-width: 200px;
+    width: 100% ;
+    height: 17.15px !important;
+}
+.header-start-main-3 a{
+    font-size: 14px;
+    color: #000000;
+}
+/*header-start-main end*/
+/*header-start-contine start*/
+.header-start-contine{
+    background: url(../image/img-2.png) center center / cover;
+    height: 504px;
+    padding-top: 188px;
+}
+.header-start-contine h1{
+    font-size: 43px;
+    color: #ffffff;
+}
+.header-start-contine h2{
+    font-size: 15px;
+    color: #ffffff;
+}
+.header-start-contine h3{
+    font-size: 13px;
+    color: #ffffff;
+}
+/*header-start-contine finish*/
+/*header-start-finish start*/
+.header-start-finish{
+    padding-top: 80px;
+    margin-bottom: 81px;
+}
+.header-start-finish h1{
+    font-size: 43px;
+    font-weight: 400;
+}
+.header-start-finish p{
+    color: #A0A0A0;
+}
+.header-start-finish h2{
+    font-size: 13px;
+}
+/*header-start-finish end*/
+/*main-start start*/
+.main-start img{
+    width: 95%;
+}
+.main-start h1{
+    font-size: 27px;
+    padding-top: 48px;
+}
+.main-start p{
+    font-size: 13px;
+}
+/*main-start end*/
+/*main-main start*/
+.main-main{
+    padding-top: 130px;
+}
+
+.main-main .main-main-1 h1{
+    font-size: 33px;
+}
+.main-main .main-main-1 p{
+    color: #A0A0A0;
+}
+.main-main .main-main-1 img{
+    width: 100%;
+}
+.main-main .main-main-2{
+    padding-top: 24px;
+}
+.main-main .main-main-2 p{
+    color: #A0A0A0;
+    font-size: 13px;
+}
+/*main-main end*/
+/*main-finish start*/
+.main-finish{
+    background: url(../image/img-9.png) center center / cover;
+    height: 504px;
+    padding-top: 174px;
+}
+.main-finish h1{
+    font-size: 66px;
+    color: #ffffff;
+}
+.main-finish p{
+    color: #ffffff;
+}
+.main-finish h3{
+    font-size: 13px;
+    color: #ffffff;
+}
+/*main-finish finish*/
+/*section-start start*/
+.section-start{
+    padding-top: 116px;
+    width: 100%;
+}
+.section-start h1{
+    font-size: 34px;
+}
+.section-start p{
+    color: #A0A0A0;
+    min-width: 777px !important;
+    width: 100% !important;
+    margin: auto;
+    padding-bottom: 23px;
+}
+.section-start img{
+        width: 100%;
+}
+/*section-start end*/
+/*section-main start*/
+.section-main{
+    padding-top: 38px;
+}
+/*section-main end*/
+/*section-finish start*/
+.section-finish{
+    padding-top: 124px;
+}
+.section-finish h1{
+    font-size: 34px;
+}
+.section-finish h2{
+    font-size: 13px;
+    margin-top: 44px;
+}
+/*section-finish end*/
+/*footer-start start*/
+.footer-start{
+    margin-top: 120px;
+    padding-top: 120px;
+    background: #9AA8B1;
+    height: 404px;
+}
+.footer-start h1{
+    color: #ffffff;
+    margin-top: 24px;
+    font-size: 43px;
+}
+.footer-start p{
+    color: #ffffff;
+    margin-top: 23px;
+}
+/*footer-start end*/
+/*finish start*/
+.finish .kv{
+    width: 82px;
+    height: 82px;
+    text-align: end !important;
+    background: #000000;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding-right: 30px;
+    padding-top: 22px;
+    position: absolute;
+}
+.finish{
+    padding-top: 39px;
+    background: #F9F9F9;
+    width: 100%;
+    margin-left: 0px !important;
+}
+.finish p{
+    font-size: 22px;
+}
+.finish h1{
+    font-size: 22px;
+}
+.finish h4{
+    font-size: 14px;
+    color: #A0A0A0;
+}
+.finish .width{
+    width: 100%;
+    max-width: 340px;
+}
+.finish h2{
+    margin-top: 425px;
+    font-size: 13px;
+    color: #707A7F;
+}
+.finish .height{
+    width: 100%;
+    max-width: 150px;
+}
+.finish h5{
+    font-size: 15px;
+}
+.finish h3{
+    font-size: 13px;
+    margin-top: 425px;
+}
+
+@media (max-width:963px){
+    .finish h2{
+        margin-top: 30px;
+    }
+    .finish h3{
+        margin-top: 100px;
+    }
+}
